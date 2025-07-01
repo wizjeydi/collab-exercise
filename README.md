@@ -2,4 +2,4 @@
 
 ## Contributors
 
-- Master Maintainer 
+- Master Maintainer (John Dave Botones)
