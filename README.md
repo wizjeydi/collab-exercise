@@ -4,3 +4,5 @@
 
 - Master Maintainer (John Dave Botones)
 - Susie Sam Benson
+- Zairel May U. Eguia
+- 
